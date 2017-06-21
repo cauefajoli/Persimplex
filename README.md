@@ -1,6 +1,6 @@
 # Persymplex - Projeto de Pesquisa Operacional 5º Semestre BSI UNIVEM
 
-Repositório para a implementação do algoritmo Simplex e Mochila.
+Repositório para a implementação do algoritmo Simplex.
 
 - João Paulo Rabaco RA: 554553
 - João Victor RA: 549045
